@@ -1,6 +1,8 @@
 # DDoS Intelligence System — Global Threat Map
 
 <img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/8d52e77f-6367-4bb7-9d0e-eaaec2d43778" />
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/45ed26a6-2add-40fe-bc09-37e506412f43" />
+
 
 
 A full-stack, real-time DDoS attack map simulator built for academic and analytical visualization. 
